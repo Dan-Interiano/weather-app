@@ -1,6 +1,5 @@
 import "./intro.css"
-import Me from "../../img/selfiephoto.JPG"
-
+import Me from "../../img/selfimage.JPG"
 
 function Introduction(){
     return (
@@ -26,7 +25,7 @@ function Introduction(){
             </div>
             <div className="i-right">
                 <div className="i-bg"></div>
-                <img src={Me} alt="" className="i-img" />
+                <img src={Me} alt="self image" className="i-img" />
             </div>
             
         </div>

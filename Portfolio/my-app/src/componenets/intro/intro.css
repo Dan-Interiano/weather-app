@@ -65,7 +65,7 @@
     object-fit: contain;
     position: absolute;
     padding: 50px;
-    
+    border-radius: 8px;
 }
 .i-bg{
     clip-path: polygon(100% 0%, 100% 52%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
